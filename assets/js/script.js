@@ -1,12 +1,9 @@
-$( document ).ready(function() {
-    var w = window.innerWidth;
-
-    if(w > 767){
+$(document).ready(function() {
+    const w = window.innerWidth;
+    if (w > 767) {
         $('#menu-jk').scrollToFixed();
-    }else{
+    } else {
         $('#menu-jk').scrollToFixed();
     }
-
-     $("#owl-demo").owlCarousel();
-
-})
+    $('#owl-demo').owlCarousel();
+});
