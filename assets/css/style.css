@@ -1,11 +1,3 @@
-/* =======================================================================
-Template Name: Youtubers
-Author:  SmartEye Technologies
-Author URI: www.smarteyeapps.com
-Version: 1.0
-coder name:Prabin Raja
-Description: This Template is created for Youtubers
-======================================================================= */
 /* ===================================== Import Less ================================== */
 :root {
   --color-font: #808291;
@@ -635,7 +627,7 @@ footer {
   background: #f2184f;
   padding: 50px !important;
   padding: 50px;
-  padding-bottom: 112px !important; }
+  padding-bottom: 100px !important; }
   @media screen and (max-width: 940px) {
     footer {
       padding: 30px 10px; } }
